@@ -1,2 +1,2 @@
 # graphql-and-react
-Hygraph(graphqlCMS)とgraphql
+Hygraph(GraphQLCMS)とGraphQL
